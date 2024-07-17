@@ -4,7 +4,7 @@ The Trip Management System is a comprehensive backend service built with Spring 
 
 ## Features
 - Trip Creation and Management: Users can create new trips, specifying details such as start and end dates, destinations, and whether the trip has been confirmed.
-Participant Registration: The system supports adding participants to trips, with functionality to send confirmation emails upon trip confirmation.
+- Participant Registration: The system supports adding participants to trips, with functionality to send confirmation emails upon trip confirmation.
 - Activity Registration: Allows for the registration of activities associated with a trip, providing a structured way to manage trip-related events.
 - Link Management: Supports the addition of links relevant to each trip, facilitating easy access to resources or documents.
 - Confirmation and Notification: Includes functionality to mark trips as confirmed and trigger automated email notifications to participants.
